@@ -1,0 +1,13 @@
+
+GUI 界面3个文件顺序分别是：GUI_simLift.java->GUI_inputToGenerateRandom.java->GUI_randomDoneandSaveFile.java
+
+①所有GUI界面大小统一一下，弄成全屏的。
+②需要解释的先帮忙解释一下哈。
+
+③GUI_inputToGenerateRandom.java 这个文件里面的
+                                            time of passenger in and out 
+                                            time of lift door open and close
+                                            time floor to floor
+                                            张海晨代码里面没有，看情况先删掉？或者怎样。
+
+④GUI_randomDoneandSaveFile.java 这个文件里面的红色字的提示，一开始设成透明的，等save成功再显示。
